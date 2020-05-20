@@ -1,0 +1,26 @@
+{
+  "name": "gardenflowers",
+  "version": "1.0.0",
+  "description": "Watercolor Flower Garden",
+  "main": "flowergarden.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buckinghamwanders/flowergardens.git"
+  },
+  "keywords": [
+    "flowers",
+    "generative"
+  ],
+  "author": "Buckingham Wanders",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buckinghamwanders/flowergardens/issues"
+  },
+  "homepage": "https://github.com/buckinghamwanders/flowergardens#readme",
+  "dependencies": {
+    "snapsvg": "^0.5.1"
+  }
+}
